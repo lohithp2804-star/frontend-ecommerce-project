@@ -32,13 +32,13 @@ A responsive Amazon-inspired e-commerce front-end built with HTML, CSS, and Java
 <img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/0ef6e7f3-c1a2-4127-86a8-c8fc510d639c" />
 <img width="908" height="637" alt="image" src="https://github.com/user-attachments/assets/e8d5567a-5a09-446a-bb0e-64004d926ef0" />
 
+ ## Educational Project
 
+This project was developed for educational purposes to practice and demonstrate front-end web development skills using HTML, CSS, and JavaScript. It is inspired by the user interface and shopping experience of a popular e-commerce platform and is **not affiliated with, endorsed by, or associated with Amazon or any other company.**
 
+## Disclaimer
 
-
-
-## License
-
-This project is created for educational and portfolio purposes only.
-
-Amazon® and its trademarks belong to Amazon.com, Inc. This project is not affiliated with or endorsed by Amazon.
+ This project was created solely for educational and portfolio purposes.
+ It is inspired by the user interface and shopping experience of Amazon to practice HTML, CSS, and JavaScript.
+ This project is **not affiliated with, endorsed by, sponsored by, or associated with Amazon.com, Inc.**
+ All trademarks, logos, product names, and brand names belong to their respective owners.
