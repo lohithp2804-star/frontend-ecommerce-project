@@ -4,7 +4,7 @@ A responsive Amazon-inspired e-commerce front-end built with HTML, CSS, and Java
 
 ## Live Demo
 
-🔗 https://lohithp2804-star.github.io/amazon-clone/
+🔗 https://lohithp2804-star.github.io/frontend-ecommerce-project/
 
 ## Features
 
